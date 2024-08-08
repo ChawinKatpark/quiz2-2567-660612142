@@ -1,12 +1,10 @@
 "use client";
-
-import { comments } from "@/libs/comments";
 export default function Comment({
   ImagePath,
   username,
   commentTitle,
   likes,
-  replies,
+  //replies,
 }:any) {
   return (
     <div className="d-flex gap-2 my-2">

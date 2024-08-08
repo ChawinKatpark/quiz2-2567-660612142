@@ -21,7 +21,7 @@ export default function Home() {
         <PostOwnner user="Chawin Katpark 660612142" picture="/profileImages/photo.jpg/"/>
 
         {/* Comment Example */}
-        <Comment ImagePath="/profileImages/lisa.jpg" username="Lisa" commentTitle="จริงค่าาาาา" likes="999" replies=""/>
+        <Comment ImagePath="/profileImages/lisa.jpg" username="Lisa" commentTitle="จริงค่าาาาา" likes="555" replies=""/>
         
         {/* Reply Example */}
         <Reply ImagePath="/profileImages/popcat.png" username="Cat Meme" replyTitle="ลิซ่าาาาาาา Rockstar" likes="20"/>
